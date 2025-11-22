@@ -1,0 +1,1197 @@
+
+{
+  "en": [
+    {
+      "crop": "Rice",
+      "market_name": "Karnal Mandi",
+      "district": "Karnal",
+      "state": "Haryana",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Kanpur Mandi",
+      "district": "Kanpur",
+      "state": "Uttar Pradesh",
+      "min_price": 2650,
+      "max_price": 2950,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Azadpur Mandi",
+      "district": "Delhi",
+      "state": "Delhi",
+      "min_price": 2850,
+      "max_price": 3150,
+      "modal_price": 3000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Amritsar Grain Market",
+      "district": "Amritsar",
+      "state": "Punjab",
+      "min_price": 2900,
+      "max_price": 3200,
+      "modal_price": 3050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Barpeta Mandi",
+      "district": "Barpeta",
+      "state": "Assam",
+      "min_price": 2600,
+      "max_price": 2900,
+      "modal_price": 2750,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Raipur Mandi",
+      "district": "Raipur",
+      "state": "Chhattisgarh",
+      "min_price": 2700,
+      "max_price": 3000,
+      "modal_price": 2850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Ranchi Mandi",
+      "district": "Ranchi",
+      "state": "Jharkhand",
+      "min_price": 2650,
+      "max_price": 2950,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Thanjavur Mandi",
+      "district": "Thanjavur",
+      "state": "Tamil Nadu",
+      "min_price": 2850,
+      "max_price": 3200,
+      "modal_price": 3025,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Warangal Market",
+      "district": "Warangal",
+      "state": "Telangana",
+      "min_price": 2750,
+      "max_price": 3050,
+      "modal_price": 2900,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Cuttack Mandi",
+      "district": "Cuttack",
+      "state": "Odisha",
+      "min_price": 2700,
+      "max_price": 3000,
+      "modal_price": 2850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Kolkata Market",
+      "district": "Kolkata",
+      "state": "West Bengal",
+      "min_price": 2750,
+      "max_price": 3050,
+      "modal_price": 2900,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Patna Grain Market",
+      "district": "Patna",
+      "state": "Bihar",
+      "min_price": 2650,
+      "max_price": 2950,
+      "modal_price": 2800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Bangalore APMC",
+      "district": "Bangalore",
+      "state": "Karnataka",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Kochi Market",
+      "district": "Kochi",
+      "state": "Kerala",
+      "min_price": 2900,
+      "max_price": 3200,
+      "modal_price": 3050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Indore Mandi",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "min_price": 2700,
+      "max_price": 3000,
+      "modal_price": 2850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Mumbai APMC",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "min_price": 2850,
+      "max_price": 3150,
+      "modal_price": 3000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Imphal Market",
+      "district": "Imphal",
+      "state": "Manipur",
+      "min_price": 2900,
+      "max_price": 3300,
+      "modal_price": 3100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Shillong Market",
+      "district": "Shillong",
+      "state": "Meghalaya",
+      "min_price": 2950,
+      "max_price": 3250,
+      "modal_price": 3100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Aizawl Market",
+      "district": "Aizawl",
+      "state": "Mizoram",
+      "min_price": 3000,
+      "max_price": 3400,
+      "modal_price": 3200,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Kohima Market",
+      "district": "Kohima",
+      "state": "Nagaland",
+      "min_price": 2950,
+      "max_price": 3300,
+      "modal_price": 3125,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Jaipur Mandi",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "min_price": 2750,
+      "max_price": 3050,
+      "modal_price": 2900,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Gangtok Market",
+      "district": "Gangtok",
+      "state": "Sikkim",
+      "min_price": 3100,
+      "max_price": 3500,
+      "modal_price": 3300,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Agartala Market",
+      "district": "Agartala",
+      "state": "Tripura",
+      "min_price": 2850,
+      "max_price": 3150,
+      "modal_price": 3000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Dehradun Mandi",
+      "district": "Dehradun",
+      "state": "Uttarakhand",
+      "min_price": 2900,
+      "max_price": 3200,
+      "modal_price": 3050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Vijayawada Market",
+      "district": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "min_price": 2800,
+      "max_price": 3150,
+      "modal_price": 2975,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Itanagar Market",
+      "district": "Itanagar",
+      "state": "Arunachal Pradesh",
+      "min_price": 3200,
+      "max_price": 3600,
+      "modal_price": 3400,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Ahmedabad APMC",
+      "district": "Ahmedabad",
+      "state": "Gujarat",
+      "min_price": 2750,
+      "max_price": 3050,
+      "modal_price": 2900,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Shimla Market",
+      "district": "Shimla",
+      "state": "Himachal Pradesh",
+      "min_price": 3000,
+      "max_price": 3400,
+      "modal_price": 3200,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Srinagar Mandi",
+      "district": "Srinagar",
+      "state": "Jammu and Kashmir",
+      "min_price": 3100,
+      "max_price": 3500,
+      "modal_price": 3300,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Leh Market",
+      "district": "Leh",
+      "state": "Ladakh",
+      "min_price": 3500,
+      "max_price": 4000,
+      "modal_price": 3750,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Panaji Market",
+      "district": "Panaji",
+      "state": "Goa",
+      "min_price": 2950,
+      "max_price": 3250,
+      "modal_price": 3100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Rice",
+      "market_name": "Puducherry Market",
+      "district": "Puducherry",
+      "state": "Puducherry",
+      "min_price": 2850,
+      "max_price": 3150,
+      "modal_price": 3000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "APMC Mandi Kaithal",
+      "district": "Kaithal",
+      "state": "Haryana",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Ludhiana Grain Market",
+      "district": "Ludhiana",
+      "state": "Punjab",
+      "min_price": 2070,
+      "max_price": 2150,
+      "modal_price": 2110,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Gorakhpur Mandi",
+      "district": "Gorakhpur",
+      "state": "Uttar Pradesh",
+      "min_price": 2020,
+      "max_price": 2100,
+      "modal_price": 2060,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Ghazipur Mandi",
+      "district": "Delhi",
+      "state": "Delhi",
+      "min_price": 2080,
+      "max_price": 2160,
+      "modal_price": 2120,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Bhopal Mandi",
+      "district": "Bhopal",
+      "state": "Madhya Pradesh",
+      "min_price": 2030,
+      "max_price": 2110,
+      "modal_price": 2070,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Jaipur Grain Market",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "min_price": 2040,
+      "max_price": 2120,
+      "modal_price": 2080,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Ahmedabad APMC",
+      "district": "Ahmedabad",
+      "state": "Gujarat",
+      "min_price": 2060,
+      "max_price": 2140,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Mumbai APMC",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "min_price": 2100,
+      "max_price": 2180,
+      "modal_price": 2140,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Patna Mandi",
+      "district": "Patna",
+      "state": "Bihar",
+      "min_price": 2030,
+      "max_price": 2110,
+      "modal_price": 2070,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Kolkata Market",
+      "district": "Kolkata",
+      "state": "West Bengal",
+      "min_price": 2080,
+      "max_price": 2160,
+      "modal_price": 2120,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Raipur Mandi",
+      "district": "Raipur",
+      "state": "Chhattisgarh",
+      "min_price": 2050,
+      "max_price": 2130,
+      "modal_price": 2090,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Ranchi Mandi",
+      "district": "Ranchi",
+      "state": "Jharkhand",
+      "min_price": 2040,
+      "max_price": 2120,
+      "modal_price": 2080,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Cuttack Mandi",
+      "district": "Cuttack",
+      "state": "Odisha",
+      "min_price": 2070,
+      "max_price": 2150,
+      "modal_price": 2110,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Bangalore APMC",
+      "district": "Bangalore",
+      "state": "Karnataka",
+      "min_price": 2090,
+      "max_price": 2170,
+      "modal_price": 2130,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Chennai Market",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "min_price": 2100,
+      "max_price": 2180,
+      "modal_price": 2140,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Hyderabad Market",
+      "district": "Hyderabad",
+      "state": "Telangana",
+      "min_price": 2080,
+      "max_price": 2160,
+      "modal_price": 2120,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Vijayawada Market",
+      "district": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "min_price": 2070,
+      "max_price": 2150,
+      "modal_price": 2110,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Shimla Market",
+      "district": "Shimla",
+      "state": "Himachal Pradesh",
+      "min_price": 2120,
+      "max_price": 2200,
+      "modal_price": 2160,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Dehradun Mandi",
+      "district": "Dehradun",
+      "state": "Uttarakhand",
+      "min_price": 2100,
+      "max_price": 2180,
+      "modal_price": 2140,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Wheat",
+      "market_name": "Srinagar Mandi",
+      "district": "Srinagar",
+      "state": "Jammu and Kashmir",
+      "min_price": 2150,
+      "max_price": 2250,
+      "modal_price": 2200,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Bathinda Mandi",
+      "district": "Bathinda",
+      "state": "Punjab",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Rajkot APMC",
+      "district": "Rajkot",
+      "state": "Gujarat",
+      "min_price": 6400,
+      "max_price": 7100,
+      "modal_price": 6750,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Adilabad Market",
+      "district": "Adilabad",
+      "state": "Telangana",
+      "min_price": 6450,
+      "max_price": 7150,
+      "modal_price": 6800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Guntur Market",
+      "district": "Guntur",
+      "state": "Andhra Pradesh",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Akola Mandi",
+      "district": "Akola",
+      "state": "Maharashtra",
+      "min_price": 6550,
+      "max_price": 7250,
+      "modal_price": 6900,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Bangalore APMC",
+      "district": "Bangalore",
+      "state": "Karnataka",
+      "min_price": 6480,
+      "max_price": 7180,
+      "modal_price": 6830,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Kaithal Mandi",
+      "district": "Kaithal",
+      "state": "Haryana",
+      "min_price": 6520,
+      "max_price": 7220,
+      "modal_price": 6870,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Indore Mandi",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "min_price": 6450,
+      "max_price": 7150,
+      "modal_price": 6800,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Jaipur Mandi",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "min_price": 6400,
+      "max_price": 7100,
+      "modal_price": 6750,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Cotton",
+      "market_name": "Coimbatore Market",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Azadpur Mandi",
+      "district": "Delhi",
+      "state": "Delhi",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Bangalore APMC",
+      "district": "Bangalore",
+      "state": "Karnataka",
+      "min_price": 1700,
+      "max_price": 2300,
+      "modal_price": 2000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Mumbai APMC",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "min_price": 1900,
+      "max_price": 2500,
+      "modal_price": 2200,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Chennai Market",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "min_price": 1650,
+      "max_price": 2250,
+      "modal_price": 1950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Kolkata Market",
+      "district": "Kolkata",
+      "state": "West Bengal",
+      "min_price": 1750,
+      "max_price": 2350,
+      "modal_price": 2050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Hyderabad Market",
+      "district": "Hyderabad",
+      "state": "Telangana",
+      "min_price": 1700,
+      "max_price": 2300,
+      "modal_price": 2000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Ahmedabad APMC",
+      "district": "Ahmedabad",
+      "state": "Gujarat",
+      "min_price": 1850,
+      "max_price": 2450,
+      "modal_price": 2150,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Pune APMC",
+      "district": "Pune",
+      "state": "Maharashtra",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Jaipur Mandi",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "min_price": 1900,
+      "max_price": 2500,
+      "modal_price": 2200,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Lucknow Mandi",
+      "district": "Lucknow",
+      "state": "Uttar Pradesh",
+      "min_price": 1750,
+      "max_price": 2350,
+      "modal_price": 2050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Chandigarh Market",
+      "district": "Chandigarh",
+      "state": "Punjab",
+      "min_price": 1850,
+      "max_price": 2450,
+      "modal_price": 2150,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Patna Mandi",
+      "district": "Patna",
+      "state": "Bihar",
+      "min_price": 1700,
+      "max_price": 2300,
+      "modal_price": 2000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Bhubaneswar Market",
+      "district": "Bhubaneswar",
+      "state": "Odisha",
+      "min_price": 1650,
+      "max_price": 2250,
+      "modal_price": 1950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Guwahati Market",
+      "district": "Guwahati",
+      "state": "Assam",
+      "min_price": 2000,
+      "max_price": 2600,
+      "modal_price": 2300,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Kochi Market",
+      "district": "Kochi",
+      "state": "Kerala",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Vijayawada Market",
+      "district": "Vijayawada",
+      "state": "Andhra Pradesh",
+      "min_price": 1750,
+      "max_price": 2350,
+      "modal_price": 2050,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Indore Mandi",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "min_price": 1850,
+      "max_price": 2450,
+      "modal_price": 2150,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Raipur Mandi",
+      "district": "Raipur",
+      "state": "Chhattisgarh",
+      "min_price": 1700,
+      "max_price": 2300,
+      "modal_price": 2000,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Tomato",
+      "market_name": "Ranchi Mandi",
+      "district": "Ranchi",
+      "state": "Jharkhand",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Agra Mandi",
+      "district": "Agra",
+      "state": "Uttar Pradesh",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Kolkata Market",
+      "district": "Kolkata",
+      "state": "West Bengal",
+      "min_price": 1400,
+      "max_price": 1750,
+      "modal_price": 1575,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Delhi Azadpur Mandi",
+      "district": "Delhi",
+      "state": "Delhi",
+      "min_price": 1300,
+      "max_price": 1650,
+      "modal_price": 1475,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Jalandhar Mandi",
+      "district": "Jalandhar",
+      "state": "Punjab",
+      "min_price": 1250,
+      "max_price": 1600,
+      "modal_price": 1425,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Patna Mandi",
+      "district": "Patna",
+      "state": "Bihar",
+      "min_price": 1350,
+      "max_price": 1700,
+      "modal_price": 1525,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Mumbai APMC",
+      "district": "Mumbai",
+      "state": "Maharashtra",
+      "min_price": 1450,
+      "max_price": 1800,
+      "modal_price": 1625,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Bangalore APMC",
+      "district": "Bangalore",
+      "state": "Karnataka",
+      "min_price": 1400,
+      "max_price": 1750,
+      "modal_price": 1575,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Ahmedabad APMC",
+      "district": "Ahmedabad",
+      "state": "Gujarat",
+      "min_price": 1350,
+      "max_price": 1700,
+      "modal_price": 1525,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Jaipur Mandi",
+      "district": "Jaipur",
+      "state": "Rajasthan",
+      "min_price": 1300,
+      "max_price": 1650,
+      "modal_price": 1475,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Indore Mandi",
+      "district": "Indore",
+      "state": "Madhya Pradesh",
+      "min_price": 1250,
+      "max_price": 1600,
+      "modal_price": 1425,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Hyderabad Market",
+      "district": "Hyderabad",
+      "state": "Telangana",
+      "min_price": 1350,
+      "max_price": 1700,
+      "modal_price": 1525,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Chennai Market",
+      "district": "Chennai",
+      "state": "Tamil Nadu",
+      "min_price": 1400,
+      "max_price": 1750,
+      "modal_price": 1575,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Bhubaneswar Market",
+      "district": "Bhubaneswar",
+      "state": "Odisha",
+      "min_price": 1300,
+      "max_price": 1650,
+      "modal_price": 1475,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Raipur Mandi",
+      "district": "Raipur",
+      "state": "Chhattisgarh",
+      "min_price": 1250,
+      "max_price": 1600,
+      "modal_price": 1425,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Ranchi Mandi",
+      "district": "Ranchi",
+      "state": "Jharkhand",
+      "min_price": 1300,
+      "max_price": 1650,
+      "modal_price": 1475,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Shimla Market",
+      "district": "Shimla",
+      "state": "Himachal Pradesh",
+      "min_price": 1500,
+      "max_price": 1850,
+      "modal_price": 1675,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Dehradun Market",
+      "district": "Dehradun",
+      "state": "Uttarakhand",
+      "min_price": 1400,
+      "max_price": 1750,
+      "modal_price": 1575,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Potato",
+      "market_name": "Guwahati Market",
+      "district": "Guwahati",
+      "state": "Assam",
+      "min_price": 1450,
+      "max_price": 1800,
+      "modal_price": 1625,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Meerut Mill",
+      "district": "Meerut",
+      "state": "Uttar Pradesh",
+      "min_price": 310,
+      "max_price": 350,
+      "modal_price": 330,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Muzaffarnagar Mill",
+      "district": "Muzaffarnagar",
+      "state": "Uttar Pradesh",
+      "min_price": 315,
+      "max_price": 355,
+      "modal_price": 335,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Kolhapur Mill",
+      "district": "Kolhapur",
+      "state": "Maharashtra",
+      "min_price": 305,
+      "max_price": 345,
+      "modal_price": 325,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Mandya Mill",
+      "district": "Mandya",
+      "state": "Karnataka",
+      "min_price": 300,
+      "max_price": 340,
+      "modal_price": 320,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Coimbatore Mill",
+      "district": "Coimbatore",
+      "state": "Tamil Nadu",
+      "min_price": 295,
+      "max_price": 335,
+      "modal_price": 315,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Jalandhar Mill",
+      "district": "Jalandhar",
+      "state": "Punjab",
+      "min_price": 320,
+      "max_price": 360,
+      "modal_price": 340,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Karnal Mill",
+      "district": "Karnal",
+      "state": "Haryana",
+      "min_price": 318,
+      "max_price": 358,
+      "modal_price": 338,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Belgaum Mill",
+      "district": "Belgaum",
+      "state": "Karnataka",
+      "min_price": 298,
+      "max_price": 338,
+      "modal_price": 318,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Nashik Mill",
+      "district": "Nashik",
+      "state": "Maharashtra",
+      "min_price": 308,
+      "max_price": 348,
+      "modal_price": 328,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Nanded Mill",
+      "district": "Nanded",
+      "state": "Maharashtra",
+      "min_price": 302,
+      "max_price": 342,
+      "modal_price": 322,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Erode Mill",
+      "district": "Erode",
+      "state": "Tamil Nadu",
+      "min_price": 293,
+      "max_price": 333,
+      "modal_price": 313,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Patna Mill",
+      "district": "Patna",
+      "state": "Bihar",
+      "min_price": 312,
+      "max_price": 352,
+      "modal_price": 332,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Andhra Pradesh Mill",
+      "district": "West Godavari",
+      "state": "Andhra Pradesh",
+      "min_price": 300,
+      "max_price": 340,
+      "modal_price": 320,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "Sugarcane",
+      "market_name": "Gujarat Mill",
+      "district": "Valsad",
+      "state": "Gujarat",
+      "min_price": 305,
+      "max_price": 345,
+      "modal_price": 325,
+      "price_date": "2024-11-08"
+    }
+  ],
+  "hi": [
+    {
+      "crop": "चावल",
+      "market_name": "करनाल मंडी",
+      "district": "करनाल",
+      "state": "हरियाणा",
+      "min_price": 2800,
+      "max_price": 3100,
+      "modal_price": 2950,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "गेहूं",
+      "market_name": "एपीएमसी मंडी कैथल",
+      "district": "कैथल",
+      "state": "हरियाणा",
+      "min_price": 2050,
+      "max_price": 2125,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "कपास",
+      "market_name": "बठिंडा मंडी",
+      "district": "बठिंडा",
+      "state": "पंजाब",
+      "min_price": 6500,
+      "max_price": 7200,
+      "modal_price": 6850,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "टमाटर",
+      "market_name": "आज़ादपुर मंडी",
+      "district": "दिल्ली",
+      "state": "दिल्ली",
+      "min_price": 1800,
+      "max_price": 2400,
+      "modal_price": 2100,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "आलू",
+      "market_name": "आगरा मंडी",
+      "district": "आगरा",
+      "state": "उत्तर प्रदेश",
+      "min_price": 1200,
+      "max_price": 1550,
+      "modal_price": 1380,
+      "price_date": "2024-11-08"
+    },
+    {
+      "crop": "गन्ना",
+      "market_name": "मेरठ मिल",
+      "district": "मेरठ",
+      "state": "उत्तर प्रदेश",
+      "min_price": 310,
+      "max_price": 350,
+      "modal_price": 330,
+      "price_date": "2024-11-08"
+    }
+  ]
+}
